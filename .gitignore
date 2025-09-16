@@ -1,0 +1,21 @@
+﻿__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+.vscode/
+.idea/
+# Large / generated – keep OUT of first commit
+Videos/
+audios/
+unused/
+output.json
+embeddings.joblib
+*.pdf
+*.mp3
+*.mp4
+*.mkv
+*.exe
+# Windows reserved
+NUL
+nul

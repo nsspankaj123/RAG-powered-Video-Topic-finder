@@ -1,0 +1,5 @@
+You're having some trouble finding information about styling in our CSS Tutorial.
+
+Styling is indeed mentioned in our CSS Tutorial. Specifically, it's covered in Part 51 of the tutorial, where we discuss CSS Validation and how to validate your stylesheets. You can find this section by checking out video 6 on our platform.
+
+If you're having trouble finding a specific topic or timestamp within the video, feel free to ask and I'll do my best to guide you there!

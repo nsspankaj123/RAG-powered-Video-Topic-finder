@@ -1,0 +1,2574 @@
+{
+    "chunks": [
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 0.0,
+            "end": 3.42,
+            "text": " Guys we started javascript in web development"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 3.42,
+            "end": 9.200000000000001,
+            "text": " Today I am going to tell you how to make variables in javascript"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 9.200000000000001,
+            "end": 10.56,
+            "text": " So what I am going to do here is"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 10.56,
+            "end": 13.86,
+            "text": " I made 47 videos here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 13.86,
+            "end": 18.0,
+            "text": " So I am going to make 48 video here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 18.0,
+            "end": 20.3,
+            "text": " So I will make 48 file here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 20.3,
+            "end": 23.1,
+            "text": " Tute48.html"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 23.1,
+            "end": 24.5,
+            "text": " Ok"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 24.5,
+            "end": 26.5,
+            "text": " And after making this Tute48"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 26.5,
+            "end": 29.5,
+            "text": " I told you how to write javascript in browser"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 29.5,
+            "end": 32.5,
+            "text": " We discussed all those things in 47th video"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 32.5,
+            "end": 34.5,
+            "text": " What we are going to do here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 34.5,
+            "end": 37.0,
+            "text": " We will see in 48th video"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 37.0,
+            "end": 43.0,
+            "text": " How we will write our javascript in boilerplate"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 43.0,
+            "end": 44.5,
+            "text": " So what I will do here is"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 44.5,
+            "end": 47.5,
+            "text": " I will close the other tabs"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 47.5,
+            "end": 48.5,
+            "text": " And I will tell you here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 48.5,
+            "end": 54.5,
+            "text": " How we can write our javascript by adding script tag"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 54.5,
+            "end": 56.5,
+            "text": " And after adding script tag"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 56.5,
+            "end": 62.5,
+            "text": " We can give src=\"file path and we can include javascript there"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 62.5,
+            "end": 65.5,
+            "text": " Here I will use the first method"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 65.5,
+            "end": 67.5,
+            "text": " And I will write javascript here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 67.5,
+            "end": 71.5,
+            "text": " So here I am going to write div.container"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 71.5,
+            "end": 73.5,
+            "text": " And I will write h1 here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 73.5,
+            "end": 75.5,
+            "text": " This is a heading"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 75.5,
+            "end": 79.5,
+            "text": " And along with that I will write div.content"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 79.5,
+            "end": 81.5,
+            "text": " And after that I will write paragraph"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 82.5,
+            "end": 86.5,
+            "text": " So that I can see some content"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 86.5,
+            "end": 88.5,
+            "text": " And as soon as I will go live"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 88.5,
+            "end": 91.5,
+            "text": " You will see this opening in live server"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 91.5,
+            "end": 94.5,
+            "text": " And I will open it here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 94.5,
+            "end": 97.5,
+            "text": " And here you can see this is a heading"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 97.5,
+            "end": 100.5,
+            "text": " And here I want to tell you"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 100.5,
+            "end": 102.5,
+            "text": " How to make variables in javascript"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 102.5,
+            "end": 105.5,
+            "text": " And how we can open the console"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 105.5,
+            "end": 107.5,
+            "text": " And see all the output"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 107.5,
+            "end": 108.5,
+            "text": " So we have discussed"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 108.5,
+            "end": 110.5,
+            "text": " Sometimes there is an error of favicon"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 110.5,
+            "end": 112.5,
+            "text": " If you have not put favicon"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 112.5,
+            "end": 114.5,
+            "text": " And we will talk about it later"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 114.5,
+            "end": 115.5,
+            "text": " If you will reload the page"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 115.5,
+            "end": 116.5,
+            "text": " This error will be gone"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 116.5,
+            "end": 118.5,
+            "text": " And ignore this error for now"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 118.5,
+            "end": 119.5,
+            "text": " If you are getting"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 119.5,
+            "end": 122.5,
+            "text": " If you want to make a variable in javascript"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 122.5,
+            "end": 125.5,
+            "text": " So you can do this by putting var a=\""
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 125.5,
+            "end": 126.5,
+            "text": " And the content of the variable"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 126.5,
+            "end": 128.5,
+            "text": " Variables are just like containers"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 128.5,
+            "end": 130.5,
+            "text": " Which store data"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 130.5,
+            "end": 132.5,
+            "text": " Now here the variable I have made"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 132.5,
+            "end": 133.5,
+            "text": " a=\"78"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 133.5,
+            "end": 135.5,
+            "text": " It is storing a number"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 135.5,
+            "end": 137.5,
+            "text": " Along with that I can write var b=\""
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 138.5,
+            "end": 140.5,
+            "text": " And I can write a string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 140.5,
+            "end": 142.5,
+            "text": " When I put double quote"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 142.5,
+            "end": 143.5,
+            "text": " It is for string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 143.5,
+            "end": 145.5,
+            "text": " And here I have written b=\"Harry"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 145.5,
+            "end": 148.5,
+            "text": " Now here I will do console.log a"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 148.5,
+            "end": 150.5,
+            "text": " So I will see a here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 150.5,
+            "end": 152.5,
+            "text": " As you can see I can see 78"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 152.5,
+            "end": 155.5,
+            "text": " And if I save it as console.log b"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 155.5,
+            "end": 157.5,
+            "text": " Then I can see Harry here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 157.5,
+            "end": 159.5,
+            "text": " But if I do console.log c"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 159.5,
+            "end": 160.5,
+            "text": " Then I will get an error"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 160.5,
+            "end": 162.5,
+            "text": " It will say c is not there"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 162.5,
+            "end": 165.5,
+            "text": " So I hope you have understood this thing"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 165.5,
+            "end": 166.5,
+            "text": " Along with that"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 166.5,
+            "end": 168.5,
+            "text": " Here in javascript"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 168.5,
+            "end": 169.5,
+            "text": " We will see operators"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 169.5,
+            "end": 172.5,
+            "text": " Now here if you are a web developer"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 172.5,
+            "end": 174.5,
+            "text": " And do not want to go into too much programming"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 174.5,
+            "end": 176.5,
+            "text": " Initially in its initial stage"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 176.5,
+            "end": 178.5,
+            "text": " I believe that you are"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 178.5,
+            "end": 180.5,
+            "text": " Do not go into programming too much"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 180.5,
+            "end": 182.5,
+            "text": " Because if you go into too much programming"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 182.5,
+            "end": 184.5,
+            "text": " Then your main web development funda"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 184.5,
+            "end": 187.5,
+            "text": " You will not be able to move forward with strong"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 187.5,
+            "end": 189.5,
+            "text": " That's why I am saying"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 189.5,
+            "end": 192.5,
+            "text": " Data structures and object orientation"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 192.5,
+            "end": 194.5,
+            "text": " Do not go into all these things initially"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 194.5,
+            "end": 196.5,
+            "text": " Learn to make a basic website first"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 196.5,
+            "end": 197.5,
+            "text": " And after that"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 197.5,
+            "end": 200.5,
+            "text": " I do not refuse to go to the advanced level"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 200.5,
+            "end": 202.5,
+            "text": " So here we saw"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 202.5,
+            "end": 204.5,
+            "text": " How to make variables"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 204.5,
+            "end": 206.5,
+            "text": " Now here it was variables"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 206.5,
+            "end": 208.5,
+            "text": " Here we made an integer variable"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 208.5,
+            "end": 210.5,
+            "text": " And here we made a string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 210.5,
+            "end": 212.5,
+            "text": " B is equal to string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 212.5,
+            "end": 214.5,
+            "text": " Now what we will do here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 214.5,
+            "end": 216.5,
+            "text": " The variable we made b is equal to"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 216.5,
+            "end": 217.5,
+            "text": " It was a string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 217.5,
+            "end": 218.5,
+            "text": " So its data type was string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 218.5,
+            "end": 220.5,
+            "text": " And its data type was integer"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 220.5,
+            "end": 223.5,
+            "text": " Now here we do not need to tell"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 223.5,
+            "end": 224.5,
+            "text": " JavaScript"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 224.5,
+            "end": 226.5,
+            "text": " That we have to make an integer or make a string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 226.5,
+            "end": 229.5,
+            "text": " It automatically took what we gave"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 229.5,
+            "end": 230.5,
+            "text": " So 78 was an integer"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 230.5,
+            "end": 231.5,
+            "text": " Harry was a string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 231.5,
+            "end": 233.5,
+            "text": " We did not tell him this"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 233.5,
+            "end": 236.5,
+            "text": " We fed our JavaScript"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 236.5,
+            "end": 240.5,
+            "text": " So here it is called dynamic typing"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 240.5,
+            "end": 242.5,
+            "text": " So what does dynamic typing mean?"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 242.5,
+            "end": 244.5,
+            "text": " Dynamic typing means"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 244.5,
+            "end": 246.5,
+            "text": " You do not need to type"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 246.5,
+            "end": 249.5,
+            "text": " So the way we made all these things here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 249.5,
+            "end": 251.5,
+            "text": " I did not define c here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 251.5,
+            "end": 254.5,
+            "text": " But if I make c equal to 34.55"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 254.5,
+            "end": 256.5,
+            "text": " So here it is 34.55"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 256.5,
+            "end": 259.5,
+            "text": " Now the way I printed the values for you"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 259.5,
+            "end": 262.5,
+            "text": " Similarly, I tell you about operators"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 262.5,
+            "end": 266.5,
+            "text": " Operators in JavaScript"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 266.5,
+            "end": 269.5,
+            "text": " Now let's see what are the operators in JavaScript"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 269.5,
+            "end": 271.5,
+            "text": " There are three types of operators"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 271.5,
+            "end": 274.5,
+            "text": " One is our unary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 274.5,
+            "end": 279.5,
+            "text": " The second is binary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 279.5,
+            "end": 282.5,
+            "text": " And the third is not an operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 282.5,
+            "end": 283.5,
+            "text": " It is an operand"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 283.5,
+            "end": 284.5,
+            "text": " It is a term"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 284.5,
+            "end": 286.5,
+            "text": " So I will keep only two types of operators here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 286.5,
+            "end": 289.5,
+            "text": " And you guys along with this"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 289.5,
+            "end": 291.5,
+            "text": " Operand"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 291.5,
+            "end": 293.5,
+            "text": " See what is operand"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 293.5,
+            "end": 295.5,
+            "text": " So it is a unary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 295.5,
+            "end": 299.5,
+            "text": " That operator which works on only one operand"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 299.5,
+            "end": 301.5,
+            "text": " What does operand mean?"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 301.5,
+            "end": 303.5,
+            "text": " If I write minus 2 here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 303.5,
+            "end": 305.5,
+            "text": " If I write it like this"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 305.5,
+            "end": 307.5,
+            "text": " 3 plus 4"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 307.5,
+            "end": 309.5,
+            "text": " I write 3 plus 4"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 309.5,
+            "end": 311.5,
+            "text": " In 3 plus 4"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 311.5,
+            "end": 313.5,
+            "text": " Plus is the operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 313.5,
+            "end": 319.5,
+            "text": " And 3 or 4 is our operands"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 319.5,
+            "end": 324.5,
+            "text": " So 3, 4 are operands"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 324.5,
+            "end": 327.5,
+            "text": " And plus is the operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 327.5,
+            "end": 329.5,
+            "text": " So this way you guys"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 329.5,
+            "end": 331.5,
+            "text": " Operand and operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 331.5,
+            "end": 333.5,
+            "text": " I hope you understood the difference"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 333.5,
+            "end": 335.5,
+            "text": " The 3 plus 4 which has a value of 7"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 335.5,
+            "end": 337.5,
+            "text": " In 7 plus operator works"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 337.5,
+            "end": 339.5,
+            "text": " And 3 and 4 are operands"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 339.5,
+            "end": 341.5,
+            "text": " Here I will write"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 341.5,
+            "end": 346.5,
+            "text": " Entities on which operators operate"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 346.5,
+            "end": 349.5,
+            "text": " And what is unary operator?"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 349.5,
+            "end": 351.5,
+            "text": " Unary operator is"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 351.5,
+            "end": 353.5,
+            "text": " It has single operand"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 353.5,
+            "end": 355.5,
+            "text": " Like"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 355.5,
+            "end": 357.5,
+            "text": " If you write minus"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 357.5,
+            "end": 359.5,
+            "text": " And after that you write minus 0"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 359.5,
+            "end": 363.5,
+            "text": " Now you write minus 98"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 363.5,
+            "end": 365.5,
+            "text": " So this is our unary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 365.5,
+            "end": 367.5,
+            "text": " Now here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 367.5,
+            "end": 369.5,
+            "text": " Your x value was 5"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 369.5,
+            "end": 371.5,
+            "text": " So you wrote x is equal to"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 371.5,
+            "end": 373.5,
+            "text": " Minus x"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 373.5,
+            "end": 375.5,
+            "text": " So x will be negative"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 375.5,
+            "end": 377.5,
+            "text": " So you wrote x"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 377.5,
+            "end": 379.5,
+            "text": " Now you write it in minus"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 379.5,
+            "end": 383.5,
+            "text": " So we have applied unary negation operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 383.5,
+            "end": 385.5,
+            "text": " So let's take an example"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 385.5,
+            "end": 387.5,
+            "text": " Of unary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 387.5,
+            "end": 389.5,
+            "text": " So I wrote"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 389.5,
+            "end": 391.5,
+            "text": " C is equal to minus C"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 391.5,
+            "end": 393.5,
+            "text": " So here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 393.5,
+            "end": 395.5,
+            "text": " I will copy it"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 395.5,
+            "end": 397.5,
+            "text": " And I will write here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 397.5,
+            "end": 399.5,
+            "text": " Unary operator in action example"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 403.5,
+            "end": 405.5,
+            "text": " Of unary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 405.5,
+            "end": 407.5,
+            "text": " Ok"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 407.5,
+            "end": 409.5,
+            "text": " Here you can see"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 409.5,
+            "end": 411.5,
+            "text": " Minus 34.55 was printed"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 411.5,
+            "end": 413.5,
+            "text": " Why it happened?"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 413.5,
+            "end": 415.5,
+            "text": " Because I wrote C is equal to minus C"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 415.5,
+            "end": 417.5,
+            "text": " So first my 34.55 will be printed"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 417.5,
+            "end": 419.5,
+            "text": " And then in minus it will be printed"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 419.5,
+            "end": 421.5,
+            "text": " So I hope you understood unary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 421.5,
+            "end": 423.5,
+            "text": " Like that we have"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 423.5,
+            "end": 425.5,
+            "text": " Binary operators"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 427.5,
+            "end": 429.5,
+            "text": " And here we have two operands"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 429.5,
+            "end": 431.5,
+            "text": " Exactly two operands"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 431.5,
+            "end": 433.5,
+            "text": " And x is equal to x plus"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 433.5,
+            "end": 435.5,
+            "text": " 6"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 435.5,
+            "end": 437.5,
+            "text": " If I write it like this"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 437.5,
+            "end": 439.5,
+            "text": " So I will have binary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 439.5,
+            "end": 441.5,
+            "text": " So I hope you understood"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 441.5,
+            "end": 443.5,
+            "text": " What is binary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 443.5,
+            "end": 445.5,
+            "text": " Let's take an example"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 445.5,
+            "end": 447.5,
+            "text": " Of binary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 447.5,
+            "end": 449.5,
+            "text": " Binary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 449.5,
+            "end": 451.5,
+            "text": " Example of binary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 451.5,
+            "end": 453.5,
+            "text": " C is equal to"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 453.5,
+            "end": 455.5,
+            "text": " 456 plus 8"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 455.5,
+            "end": 457.5,
+            "text": " And 456 plus 8 is 464"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 457.5,
+            "end": 459.5,
+            "text": " And see my 464"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 459.5,
+            "end": 461.5,
+            "text": " Will be printed"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 461.5,
+            "end": 463.5,
+            "text": " I didn't print it"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 463.5,
+            "end": 465.5,
+            "text": " And here you can write semicolon"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 465.5,
+            "end": 467.5,
+            "text": " Now you must have seen"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 467.5,
+            "end": 469.5,
+            "text": " When I am not writing semicolon"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 469.5,
+            "end": 471.5,
+            "text": " JavaScript forgives us"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 471.5,
+            "end": 473.5,
+            "text": " And it doesn't"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 473.5,
+            "end": 475.5,
+            "text": " Throw us error"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 475.5,
+            "end": 477.5,
+            "text": " So JavaScript is a forgiving language"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 477.5,
+            "end": 479.5,
+            "text": " And the reason is"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 479.5,
+            "end": 481.5,
+            "text": " It is used in browser"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 481.5,
+            "end": 483.5,
+            "text": " And it doesn't want to throw you error"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 483.5,
+            "end": 485.5,
+            "text": " So it is a forgiving language"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 485.5,
+            "end": 487.5,
+            "text": " So this was the example of binary operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 487.5,
+            "end": 489.5,
+            "text": " Now binary operator is not necessary"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 489.5,
+            "end": 491.5,
+            "text": " To be applied on numbers"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 491.5,
+            "end": 493.5,
+            "text": " It can be applied on your string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 493.5,
+            "end": 495.5,
+            "text": " So let me do one thing"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 495.5,
+            "end": 497.5,
+            "text": " I have written the operand"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 497.5,
+            "end": 499.5,
+            "text": " I will bring it on top"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 499.5,
+            "end": 501.5,
+            "text": " And"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 501.5,
+            "end": 503.5,
+            "text": " I will bring it here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 503.5,
+            "end": 505.5,
+            "text": " And I have written console.log"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 505.5,
+            "end": 507.5,
+            "text": " I will comment it"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 507.5,
+            "end": 509.5,
+            "text": " So that you don't get confused"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 509.5,
+            "end": 511.5,
+            "text": " So we will talk about"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 511.5,
+            "end": 513.5,
+            "text": " Some arithmetic operators"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 513.5,
+            "end": 515.5,
+            "text": " I will write var num1"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 515.5,
+            "end": 517.5,
+            "text": " Is equal to 56"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 517.5,
+            "end": 519.5,
+            "text": " var num2"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 519.5,
+            "end": 521.5,
+            "text": " Is equal to 67"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 521.5,
+            "end": 523.5,
+            "text": " Now here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 523.5,
+            "end": 525.5,
+            "text": " I have done this"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 525.5,
+            "end": 527.5,
+            "text": " var num1 is equal to 56"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 527.5,
+            "end": 529.5,
+            "text": " And after doing this"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 529.5,
+            "end": 531.5,
+            "text": " I am going to write"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 531.5,
+            "end": 533.5,
+            "text": " console.log"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 533.5,
+            "end": 535.5,
+            "text": " And after that I will open a string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 535.5,
+            "end": 537.5,
+            "text": " I will write"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 537.5,
+            "end": 539.5,
+            "text": " The value of"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 539.5,
+            "end": 541.5,
+            "text": " num1 plus num2"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 541.5,
+            "end": 543.5,
+            "text": " Is"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 543.5,
+            "end": 545.5,
+            "text": " And I will use"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 545.5,
+            "end": 547.5,
+            "text": " String concatenation operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 547.5,
+            "end": 549.5,
+            "text": " I will add string in which"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 549.5,
+            "end": 551.5,
+            "text": " I will add string in"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 551.5,
+            "end": 553.5,
+            "text": " This value"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 553.5,
+            "end": 555.5,
+            "text": " I will put bracket and write"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 555.5,
+            "end": 557.5,
+            "text": " num1 plus num2"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 557.5,
+            "end": 559.5,
+            "text": " num1"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 559.5,
+            "end": 561.5,
+            "text": " plus num2"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 561.5,
+            "end": 563.5,
+            "text": " I have written this value"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 563.5,
+            "end": 565.5,
+            "text": " And here I will"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 565.5,
+            "end": 567.5,
+            "text": " Put minus"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 567.5,
+            "end": 569.5,
+            "text": " Then multiply by"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 569.5,
+            "end": 571.5,
+            "text": " Multiply by"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 571.5,
+            "end": 573.5,
+            "text": " Then divide by"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 573.5,
+            "end": 575.5,
+            "text": " Divide by"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 575.5,
+            "end": 577.5,
+            "text": " I have saved this"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 577.5,
+            "end": 579.5,
+            "text": " And here all the values"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 579.5,
+            "end": 581.5,
+            "text": " Are there"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 581.5,
+            "end": 583.5,
+            "text": " Which are returned by"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 583.5,
+            "end": 585.5,
+            "text": " These operators"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 585.5,
+            "end": 587.5,
+            "text": " So I will write"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 587.5,
+            "end": 589.5,
+            "text": " In action"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 589.5,
+            "end": 591.5,
+            "text": " In javascript"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 591.5,
+            "end": 593.5,
+            "text": " So you have understood"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 593.5,
+            "end": 595.5,
+            "text": " What are arithmetic operators"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 595.5,
+            "end": 597.5,
+            "text": " We have seen about unary, binary and operand"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 597.5,
+            "end": 599.5,
+            "text": " So these are"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 599.5,
+            "end": 601.5,
+            "text": " Basic operators in javascript"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 601.5,
+            "end": 603.5,
+            "text": " And I hope you have understood"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 603.5,
+            "end": 605.5,
+            "text": " This thing clearly"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 605.5,
+            "end": 607.5,
+            "text": " Along with this"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 607.5,
+            "end": 609.5,
+            "text": " We have exponentiation operators"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 609.5,
+            "end": 611.5,
+            "text": " Like if I"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 611.5,
+            "end": 613.5,
+            "text": " Write to the power"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 613.5,
+            "end": 615.5,
+            "text": " Then what it will do"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 615.5,
+            "end": 617.5,
+            "text": " I will make it small"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 617.5,
+            "end": 619.5,
+            "text": " I will make it 2, 3"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 619.5,
+            "end": 621.5,
+            "text": " I will make it 9"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 621.5,
+            "end": 623.5,
+            "text": " So 2 to the power 9 it will give me"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 623.5,
+            "end": 625.5,
+            "text": " And it is 512"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 625.5,
+            "end": 627.5,
+            "text": " So here it is called exponentiation operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 627.5,
+            "end": 629.5,
+            "text": " Then after that we have increment and decrement"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 629.5,
+            "end": 631.5,
+            "text": " Operator"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 631.5,
+            "end": 633.5,
+            "text": " Like if I do num1 plus plus"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 633.5,
+            "end": 635.5,
+            "text": " I will do num1 plus plus"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 635.5,
+            "end": 637.5,
+            "text": " So what num1 plus plus will do"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 637.5,
+            "end": 639.5,
+            "text": " It will increment this number"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 639.5,
+            "end": 641.5,
+            "text": " From 1"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 641.5,
+            "end": 643.5,
+            "text": " It will add 1"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 643.5,
+            "end": 645.5,
+            "text": " But it will print old value"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 645.5,
+            "end": 647.5,
+            "text": " So you can see it like this"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 647.5,
+            "end": 649.5,
+            "text": " Value of num1 plus plus"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 649.5,
+            "end": 651.5,
+            "text": " Is"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 651.5,
+            "end": 653.5,
+            "text": " Printing this thing"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 653.5,
+            "end": 655.5,
+            "text": " Then it will print num1 and increment it"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 655.5,
+            "end": 657.5,
+            "text": " So I will get 2 printed here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 657.5,
+            "end": 659.5,
+            "text": " See 2 is printed"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 659.5,
+            "end": 661.5,
+            "text": " But if I would have done something like this"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 661.5,
+            "end": 663.5,
+            "text": " Plus plus num1"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 663.5,
+            "end": 665.5,
+            "text": " So you see what is coming here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 665.5,
+            "end": 667.5,
+            "text": " So I write plus plus here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 667.5,
+            "end": 669.5,
+            "text": " So as soon as I write plus plus"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 669.5,
+            "end": 671.5,
+            "text": " So what will happen"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 671.5,
+            "end": 673.5,
+            "text": " It will increment and then print"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 673.5,
+            "end": 675.5,
+            "text": " So here it was already printed"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 675.5,
+            "end": 677.5,
+            "text": " If I comment it out, you will see 3"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 677.5,
+            "end": 679.5,
+            "text": " So you can see 3 here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 679.5,
+            "end": 681.5,
+            "text": " This happened because its value was 2"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 681.5,
+            "end": 683.5,
+            "text": " When this line was not there"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 683.5,
+            "end": 685.5,
+            "text": " Its value was 2"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 685.5,
+            "end": 687.5,
+            "text": " In that first 1 was added and then it was printed"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 687.5,
+            "end": 689.5,
+            "text": " But when I also put this"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 689.5,
+            "end": 691.5,
+            "text": " Then what is happening"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 691.5,
+            "end": 693.5,
+            "text": " It did increment once"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 693.5,
+            "end": 695.5,
+            "text": " First it was printed, then 2 will be printed"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 695.5,
+            "end": 697.5,
+            "text": " Or after incrementing it will be 3"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 697.5,
+            "end": 699.5,
+            "text": " Then after incrementing it will be 4 again"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 699.5,
+            "end": 701.5,
+            "text": " So this is how our increment and decrement operator works"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 703.5,
+            "end": 705.5,
+            "text": " Now here num1 plus plus"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 705.5,
+            "end": 707.5,
+            "text": " As it is written, num1 minus minus can also be done"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 707.5,
+            "end": 709.5,
+            "text": " So I will show you by writing that"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 709.5,
+            "end": 711.5,
+            "text": " So that you people do not have any problem"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 711.5,
+            "end": 713.5,
+            "text": " Understanding that thing"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 713.5,
+            "end": 715.5,
+            "text": " So here you can also use it by minus minus"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 717.5,
+            "end": 719.5,
+            "text": " So num1 plus plus, num1 minus minus"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 719.5,
+            "end": 721.5,
+            "text": " All these things"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 721.5,
+            "end": 723.5,
+            "text": " I hope you have understood"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 723.5,
+            "end": 725.5,
+            "text": " Now here it will be a little complex"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 725.5,
+            "end": 727.5,
+            "text": " Because what I have done here, what is its value"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 727.5,
+            "end": 729.5,
+            "text": " Let's see"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 729.5,
+            "end": 731.5,
+            "text": " Its value is 4"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 731.5,
+            "end": 733.5,
+            "text": " So 4 will be printed"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 733.5,
+            "end": 735.5,
+            "text": " But value will be 3"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 735.5,
+            "end": 737.5,
+            "text": " Then once value will be decremented"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 737.5,
+            "end": 739.5,
+            "text": " Then it will be 2"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 739.5,
+            "end": 741.5,
+            "text": " So you people have to try this thing"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 741.5,
+            "end": 743.5,
+            "text": " And in javascript"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 743.5,
+            "end": 745.5,
+            "text": " You people do not need much calculations"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 745.5,
+            "end": 747.5,
+            "text": " Initially when you are doing web development"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 747.5,
+            "end": 749.5,
+            "text": " You will not need that much"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 749.5,
+            "end": 751.5,
+            "text": " That's why I am skipping bitwise operators"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 751.5,
+            "end": 753.5,
+            "text": " And we will talk later"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 753.5,
+            "end": 755.5,
+            "text": " About some methods of string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 755.5,
+            "end": 757.5,
+            "text": " Why it is important topic"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 757.5,
+            "end": 759.5,
+            "text": " Because you are going to do a lot of manipulation in string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 759.5,
+            "end": 761.5,
+            "text": " If you bring any html"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 761.5,
+            "end": 763.5,
+            "text": " From outside"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 763.5,
+            "end": 765.5,
+            "text": " It is a string only"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 765.5,
+            "end": 767.5,
+            "text": " And with that string"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 767.5,
+            "end": 769.5,
+            "text": " How you have to do slicing"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 769.5,
+            "end": 771.5,
+            "text": " How you have to apply functions"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 771.5,
+            "end": 773.5,
+            "text": " And make changes"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 773.5,
+            "end": 775.5,
+            "text": " So it is very important to see those things"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 775.5,
+            "end": 777.5,
+            "text": " So I hope you people have understood"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 777.5,
+            "end": 779.5,
+            "text": " And you people will access this playlist"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 779.5,
+            "end": 781.5,
+            "text": " If you have not done it yet"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 781.5,
+            "end": 783.5,
+            "text": " Because this is the playlist where I have uploaded the whole course"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 783.5,
+            "end": 785.5,
+            "text": " With that"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 785.5,
+            "end": 787.5,
+            "text": " You people bookmark by clicking here"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 787.5,
+            "end": 789.5,
+            "text": " Or click here and save the playlist"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 789.5,
+            "end": 791.5,
+            "text": " So this playlist will be yours"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 791.5,
+            "end": 793.5,
+            "text": " That's all for this video"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 793.5,
+            "end": 795.5,
+            "text": " I will give the source code in the description"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 795.5,
+            "end": 797.5,
+            "text": " And you people do not forget to like this video"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 797.5,
+            "end": 799.5,
+            "text": " Thank you so much guys for watching this video"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 799.5,
+            "end": 801.5,
+            "text": " And I will see you next time"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 813.5,
+            "end": 815.5,
+            "text": " Music"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 815.5,
+            "end": 817.5,
+            "text": " Music"
+        },
+        {
+            "number": "8",
+            "title": "Variables-Data-Types-and-Operators-in-JavaScript-Web-Development",
+            "start": 817.5,
+            "end": 819.5,
+            "text": " Music"
+        }
+    ],
+    "text": " Guys we started javascript in web development Today I am going to tell you how to make variables in javascript So what I am going to do here is I made 47 videos here So I am going to make 48 video here So I will make 48 file here Tute48.html Ok And after making this Tute48 I told you how to write javascript in browser We discussed all those things in 47th video What we are going to do here We will see in 48th video How we will write our javascript in boilerplate So what I will do here is I will close the other tabs And I will tell you here How we can write our javascript by adding script tag And after adding script tag We can give src=\"file path and we can include javascript there Here I will use the first method And I will write javascript here So here I am going to write div.container And I will write h1 here This is a heading And along with that I will write div.content And after that I will write paragraph So that I can see some content And as soon as I will go live You will see this opening in live server And I will open it here And here you can see this is a heading And here I want to tell you How to make variables in javascript And how we can open the console And see all the output So we have discussed Sometimes there is an error of favicon If you have not put favicon And we will talk about it later If you will reload the page This error will be gone And ignore this error for now If you are getting If you want to make a variable in javascript So you can do this by putting var a=\" And the content of the variable Variables are just like containers Which store data Now here the variable I have made a=\"78 It is storing a number Along with that I can write var b=\" And I can write a string When I put double quote It is for string And here I have written b=\"Harry Now here I will do console.log a So I will see a here As you can see I can see 78 And if I save it as console.log b Then I can see Harry here But if I do console.log c Then I will get an error It will say c is not there So I hope you have understood this thing Along with that Here in javascript We will see operators Now here if you are a web developer And do not want to go into too much programming Initially in its initial stage I believe that you are Do not go into programming too much Because if you go into too much programming Then your main web development funda You will not be able to move forward with strong That's why I am saying Data structures and object orientation Do not go into all these things initially Learn to make a basic website first And after that I do not refuse to go to the advanced level So here we saw How to make variables Now here it was variables Here we made an integer variable And here we made a string B is equal to string Now what we will do here The variable we made b is equal to It was a string So its data type was string And its data type was integer Now here we do not need to tell JavaScript That we have to make an integer or make a string It automatically took what we gave So 78 was an integer Harry was a string We did not tell him this We fed our JavaScript So here it is called dynamic typing So what does dynamic typing mean? Dynamic typing means You do not need to type So the way we made all these things here I did not define c here But if I make c equal to 34.55 So here it is 34.55 Now the way I printed the values for you Similarly, I tell you about operators Operators in JavaScript Now let's see what are the operators in JavaScript There are three types of operators One is our unary operator The second is binary operator And the third is not an operator It is an operand It is a term So I will keep only two types of operators here And you guys along with this Operand See what is operand So it is a unary operator That operator which works on only one operand What does operand mean? If I write minus 2 here If I write it like this 3 plus 4 I write 3 plus 4 In 3 plus 4 Plus is the operator And 3 or 4 is our operands So 3, 4 are operands And plus is the operator So this way you guys Operand and operator I hope you understood the difference The 3 plus 4 which has a value of 7 In 7 plus operator works And 3 and 4 are operands Here I will write Entities on which operators operate And what is unary operator? Unary operator is It has single operand Like If you write minus And after that you write minus 0 Now you write minus 98 So this is our unary operator Now here Your x value was 5 So you wrote x is equal to Minus x So x will be negative So you wrote x Now you write it in minus So we have applied unary negation operator So let's take an example Of unary operator So I wrote C is equal to minus C So here I will copy it And I will write here Unary operator in action example Of unary operator Ok Here you can see Minus 34.55 was printed Why it happened? Because I wrote C is equal to minus C So first my 34.55 will be printed And then in minus it will be printed So I hope you understood unary operator Like that we have Binary operators And here we have two operands Exactly two operands And x is equal to x plus 6 If I write it like this So I will have binary operator So I hope you understood What is binary operator Let's take an example Of binary operator Binary operator Example of binary operator C is equal to 456 plus 8 And 456 plus 8 is 464 And see my 464 Will be printed I didn't print it And here you can write semicolon Now you must have seen When I am not writing semicolon JavaScript forgives us And it doesn't Throw us error So JavaScript is a forgiving language And the reason is It is used in browser And it doesn't want to throw you error So it is a forgiving language So this was the example of binary operator Now binary operator is not necessary To be applied on numbers It can be applied on your string So let me do one thing I have written the operand I will bring it on top And I will bring it here And I have written console.log I will comment it So that you don't get confused So we will talk about Some arithmetic operators I will write var num1 Is equal to 56 var num2 Is equal to 67 Now here I have done this var num1 is equal to 56 And after doing this I am going to write console.log And after that I will open a string I will write The value of num1 plus num2 Is And I will use String concatenation operator I will add string in which I will add string in This value I will put bracket and write num1 plus num2 num1 plus num2 I have written this value And here I will Put minus Then multiply by Multiply by Then divide by Divide by I have saved this And here all the values Are there Which are returned by These operators So I will write In action In javascript So you have understood What are arithmetic operators We have seen about unary, binary and operand So these are Basic operators in javascript And I hope you have understood This thing clearly Along with this We have exponentiation operators Like if I Write to the power Then what it will do I will make it small I will make it 2, 3 I will make it 9 So 2 to the power 9 it will give me And it is 512 So here it is called exponentiation operator Then after that we have increment and decrement Operator Like if I do num1 plus plus I will do num1 plus plus So what num1 plus plus will do It will increment this number From 1 It will add 1 But it will print old value So you can see it like this Value of num1 plus plus Is Printing this thing Then it will print num1 and increment it So I will get 2 printed here See 2 is printed But if I would have done something like this Plus plus num1 So you see what is coming here So I write plus plus here So as soon as I write plus plus So what will happen It will increment and then print So here it was already printed If I comment it out, you will see 3 So you can see 3 here This happened because its value was 2 When this line was not there Its value was 2 In that first 1 was added and then it was printed But when I also put this Then what is happening It did increment once First it was printed, then 2 will be printed Or after incrementing it will be 3 Then after incrementing it will be 4 again So this is how our increment and decrement operator works Now here num1 plus plus As it is written, num1 minus minus can also be done So I will show you by writing that So that you people do not have any problem Understanding that thing So here you can also use it by minus minus So num1 plus plus, num1 minus minus All these things I hope you have understood Now here it will be a little complex Because what I have done here, what is its value Let's see Its value is 4 So 4 will be printed But value will be 3 Then once value will be decremented Then it will be 2 So you people have to try this thing And in javascript You people do not need much calculations Initially when you are doing web development You will not need that much That's why I am skipping bitwise operators And we will talk later About some methods of string Why it is important topic Because you are going to do a lot of manipulation in string If you bring any html From outside It is a string only And with that string How you have to do slicing How you have to apply functions And make changes So it is very important to see those things So I hope you people have understood And you people will access this playlist If you have not done it yet Because this is the playlist where I have uploaded the whole course With that You people bookmark by clicking here Or click here and save the playlist So this playlist will be yours That's all for this video I will give the source code in the description And you people do not forget to like this video Thank you so much guys for watching this video And I will see you next time Music Music Music"
+}

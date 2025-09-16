@@ -1,0 +1,348 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 0.0,
+            "end": 4.0,
+            "text": " In this video we're going to go over whitespace and escape characters."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 4.0,
+            "end": 8.64,
+            "text": " Now the way this works is the browser will recognize one whitespace and that's all."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 8.64,
+            "end": 12.16,
+            "text": " So if you put two or three extra spaces here it wouldn't recognize that."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 12.16,
+            "end": 13.84,
+            "text": " And you can see that right here right now."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 13.84,
+            "end": 16.32,
+            "text": " One whitespace is recognized by the browser."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 16.32,
+            "end": 19.12,
+            "text": " But let's put in five whitespaces here."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 20.240000000000002,
+            "end": 22.64,
+            "text": " And then we'll go ahead and refresh our page."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 22.64,
+            "end": 25.76,
+            "text": " And you can see it didn't recognize those extra spaces."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 25.76,
+            "end": 28.8,
+            "text": " And that's where escape characters come into play."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 28.8,
+            "end": 31.6,
+            "text": " So these are the escape characters right here for space."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 31.6,
+            "end": 32.56,
+            "text": " And we need all these."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 32.56,
+            "end": 35.92,
+            "text": " The semicolon by the way is just to end the escape characters."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 35.92,
+            "end": 38.480000000000004,
+            "text": " So let's go ahead and copy and paste five of these into here."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 39.36,
+            "end": 42.24,
+            "text": " And now let's go ahead and refresh our web page."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 42.24,
+            "end": 45.36,
+            "text": " And there you can see now the browser recognizes those whitespaces."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 45.36,
+            "end": 48.0,
+            "text": " Because we have these escape characters right here."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 48.0,
+            "end": 50.480000000000004,
+            "text": " Now we can use escape characters for symbols as well."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 50.480000000000004,
+            "end": 53.519999999999996,
+            "text": " Suppose you want a trademark in your web page."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 53.519999999999996,
+            "end": 56.32,
+            "text": " Well we can go ahead and use these escape characters."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 56.32,
+            "end": 58.0,
+            "text": " And let's just put this right here."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 58.64,
+            "end": 60.96,
+            "text": " And let's go ahead and refresh our page."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 60.96,
+            "end": 64.16,
+            "text": " And there you can see now we've got a trademark on our web page."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 64.16,
+            "end": 66.24,
+            "text": " And let's put a copyright notice too."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 66.24,
+            "end": 68.32,
+            "text": " Let's use the escape characters for that."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 68.32,
+            "end": 70.56,
+            "text": " So we'll just put that right after our trademark."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 71.12,
+            "end": 73.04,
+            "text": " And we'll refresh our page."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 73.04,
+            "end": 73.92,
+            "text": " And there you can see."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 73.92,
+            "end": 76.32,
+            "text": " So you can use escape characters for those as well."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 76.32,
+            "end": 78.56,
+            "text": " Now some escape characters are needed."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 78.56,
+            "end": 80.16,
+            "text": " Because you might confuse the browser."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 80.16,
+            "end": 80.8,
+            "text": " And I'll show you that."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 80.8,
+            "end": 83.84,
+            "text": " Let's go ahead and type in a greater sign right here."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 84.72,
+            "end": 86.32000000000001,
+            "text": " Now if we do that."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 86.32000000000001,
+            "end": 88.8,
+            "text": " The browser will think this is HTML code."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 88.8,
+            "end": 91.60000000000001,
+            "text": " And it'll think that we're trying to close out this element."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 91.60000000000001,
+            "end": 94.16,
+            "text": " When really we want this in our content."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 94.16,
+            "end": 95.44,
+            "text": " And so instead of typing that in."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 95.44,
+            "end": 98.80000000000001,
+            "text": " We can go ahead and use the escape character for the greater than sign."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 99.36,
+            "end": 102.08000000000001,
+            "text": " And we'll just go ahead and copy and paste that in here."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 102.80000000000001,
+            "end": 104.24000000000001,
+            "text": " And let's refresh our page."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 104.24000000000001,
+            "end": 107.2,
+            "text": " And there you can see we've got our greater than sign now."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 107.2,
+            "end": 110.48,
+            "text": " And it's not actually being confused as HTML code."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 110.48,
+            "end": 111.04,
+            "text": " That's the key."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 111.04,
+            "end": 112.72,
+            "text": " The browser will not be confused."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 112.72,
+            "end": 114.4,
+            "text": " Now there are many other escape characters."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 114.4,
+            "end": 116.16,
+            "text": " But these are the main ones that are used."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 116.16,
+            "end": 119.28,
+            "text": " So I will actually create a link in the description of this video."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 119.28,
+            "end": 120.64,
+            "text": " If you guys want to go ahead and use these."
+        },
+        {
+            "number": "2",
+            "title": "HTML Tutorial for Beginners - 21 - Escape characters",
+            "start": 120.64,
+            "end": 122.08,
+            "text": " See you guys in the next video."
+        }
+    ],
+    "text": " In this video we're going to go over whitespace and escape characters. Now the way this works is the browser will recognize one whitespace and that's all. So if you put two or three extra spaces here it wouldn't recognize that. And you can see that right here right now. One whitespace is recognized by the browser. But let's put in five whitespaces here. And then we'll go ahead and refresh our page. And you can see it didn't recognize those extra spaces. And that's where escape characters come into play. So these are the escape characters right here for space. And we need all these. The semicolon by the way is just to end the escape characters. So let's go ahead and copy and paste five of these into here. And now let's go ahead and refresh our web page. And there you can see now the browser recognizes those whitespaces. Because we have these escape characters right here. Now we can use escape characters for symbols as well. Suppose you want a trademark in your web page. Well we can go ahead and use these escape characters. And let's just put this right here. And let's go ahead and refresh our page. And there you can see now we've got a trademark on our web page. And let's put a copyright notice too. Let's use the escape characters for that. So we'll just put that right after our trademark. And we'll refresh our page. And there you can see. So you can use escape characters for those as well. Now some escape characters are needed. Because you might confuse the browser. And I'll show you that. Let's go ahead and type in a greater sign right here. Now if we do that. The browser will think this is HTML code. And it'll think that we're trying to close out this element. When really we want this in our content. And so instead of typing that in. We can go ahead and use the escape character for the greater than sign. And we'll just go ahead and copy and paste that in here. And let's refresh our page. And there you can see we've got our greater than sign now. And it's not actually being confused as HTML code. That's the key. The browser will not be confused. Now there are many other escape characters. But these are the main ones that are used. So I will actually create a link in the description of this video. If you guys want to go ahead and use these. See you guys in the next video."
+}
