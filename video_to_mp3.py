@@ -13,6 +13,6 @@ for file in files:
 
 
 '''
-file name could be 'Basic Structure of an HTML Website _ Sigma Web Development Course - Tutorial #3.mp4', 
+file name could be 'Sigma Web Development !Basic Structure of an HTML Website #3.mp4', 
 from YOUTUBE from CodewithHarry web dev course. 
 '''
