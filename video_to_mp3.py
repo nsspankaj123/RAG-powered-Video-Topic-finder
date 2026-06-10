@@ -10,3 +10,6 @@ for file in files:
     file_name = file.split(" !")[0]
     print(tutorial_number, file_name)
     subprocess.run(["ffmpeg", "-i", f"videos/{file}", f"audios/{tutorial_number}_{file_name}.mp3"])
+
+
+# file name could be 'Python Tutorial !Intro to Loops #5.mp4'
