@@ -12,4 +12,4 @@ for file in files:
     subprocess.run(["ffmpeg", "-i", f"videos/{file}", f"audios/{tutorial_number}_{file_name}.mp3"])
 
 
-# file name could be 'Python Tutorial !Intro to Loops #5.mp4'
+# file name could be 'Basic Structure of an HTML Website _ Sigma Web Development Course - Tutorial #3.mp4
